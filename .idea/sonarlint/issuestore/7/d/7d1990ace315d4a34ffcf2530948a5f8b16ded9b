@@ -1,0 +1,24 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–˜ÿÿÿÿÿ8Õ¸°é1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–˜ÿÿÿÿÿ8Õ¸°é1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–˜ÿÿÿÿÿ8Õ¸°é1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–˜ÿÿÿÿÿ8Ö¸°é1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–˜ÿÿÿÿÿ8Ö¸°é1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–˜ÿÿÿÿÿ8Ö¸°é1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(•ÀœÎ8™¸°é1
+e
+java:S1659"CDeclare "Icolor" and all following declarations on a separate line.(œ–˜ÿÿÿÿÿ8›¸°é1
+G	java:S106'"+Replace this use of System.out by a logger.(ª³µŞ8Ÿ¸°é1
+L	java:S106("+Replace this use of System.out by a logger.(øÓª„şÿÿÿÿ8 ¸°é1
+G	java:S106)"+Replace this use of System.out by a logger.(±¢Ì¨8 ¸°é1
+e
+java:S1659="CDeclare "Icolor" and all following declarations on a separate line.(œ–˜ÿÿÿÿÿ8¢¸°é1
+P
+java:S1197D".Move the array designators [][][] to the type.(Ä¤“şşÿÿÿÿ8¤¸°é1
+G	java:S106W"+Replace this use of System.out by a logger.(ª³µŞ8¦¸°é1
+L	java:S106X"+Replace this use of System.out by a logger.(øÓª„şÿÿÿÿ8¦¸°é1
+G	java:S106Y"+Replace this use of System.out by a logger.(±¢Ì¨8¦¸°é1
+L	java:S106Z"+Replace this use of System.out by a logger.(ç‘ë®üÿÿÿÿ8§¸°é1
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(øŸ‚ñûÿÿÿÿ8®¸°é1

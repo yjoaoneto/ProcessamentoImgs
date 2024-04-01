@@ -1,0 +1,10 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(ãÌş
+@	java:S106"+Replace this use of System.out by a logger.(”Â‚œ
+d
+java:S3252)"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¼Îÿûÿÿÿÿ
+@	java:S1063"+Replace this use of System.out by a logger.(—ü¢ø

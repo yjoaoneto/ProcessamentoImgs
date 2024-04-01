@@ -1,0 +1,12 @@
+
+{
+java:S1118":Add a private constructor to hide the implicit public one.(èòµ€ùÿÿÿÿJ$a7bb22a3-d940-43dd-81ee-8a16fa264a5e
+	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÆÌèıÿÿÿÿJ$22e0fbd6-8917-45ba-b8d8-5f7bc789dadf
+‰	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆšÑJ$6cce8667-40c1-49d8-9ab6-9cc44804bd3f
+	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«æ¸ıÿÿÿÿJ$06b05bd9-f80e-40e7-a1a7-0486a7c5bee8
+	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾ÇÆøÿÿÿÿJ$c4dd69af-491f-4292-a7ba-38307376f608
+	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïª‡óúÿÿÿÿJ$663bdab5-7356-49d5-8905-6c71be6afa9b
+~
+java:S1854Ú"<Remove this useless assignment to local variable "imgSaida".(æçÙøÿÿÿÿÿJ$9fb24a99-6ae8-4798-b541-7b9caf55fbd7
+o
+java:S1481Ú"-Remove this unused "imgSaida" local variable.(æçÙøÿÿÿÿÿJ$9722fef3-0459-404c-8525-5d67c24402c1
